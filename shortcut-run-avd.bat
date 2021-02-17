@@ -16,7 +16,7 @@ echo '
 echo LISTAR EMULADORES ((( emulator -list-avds )))
 echo EXECUTAR EMULADOR ((( emulator -avd NOME_DO_EMULADOR ))) 
 echo '
-echo ABRIR shortcut-run-avd.bat E SETAR O CAMINHO - start cd \...\AppData\Local\Android\Sdk\tools
+echo EDITAR shortcut-run-avd.bat E SETAR O CAMINHO - start cd \...\AppData\Local\Android\Sdk\tools
 
 pause
 
