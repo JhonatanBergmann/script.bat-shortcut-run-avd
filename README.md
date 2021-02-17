@@ -1,1 +1,0 @@
-# script.bat-shortcut-run-avd
