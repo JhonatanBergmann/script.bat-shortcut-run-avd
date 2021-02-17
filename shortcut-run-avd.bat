@@ -23,6 +23,3 @@ pause
 : --------- SETAR CAMINHO - AUTO.EXEC ->
 
 : start cd \...\AppData\Local\Android\Sdk\tools
-
-
-
